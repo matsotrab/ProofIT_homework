@@ -1,0 +1,1 @@
+riskSumInsured = 100.0
